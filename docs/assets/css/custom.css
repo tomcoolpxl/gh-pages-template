@@ -1,0 +1,9 @@
+@media print {
+  .sidebar {
+    display: none;
+  }
+
+  .content {
+    left: 5px;
+  }
+}
