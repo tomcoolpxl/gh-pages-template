@@ -1,4 +1,4 @@
-# PXL Hogeschool - Systems Advanced Linux - Labs
+# PXL Hogeschool - OLOD
 
 ## License  <!-- {docsify-ignore} -->
 
